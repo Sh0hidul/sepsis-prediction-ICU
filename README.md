@@ -52,6 +52,10 @@ Our end-to-end ML workflow compares **13 classifiers** with **SMOTE** and **unde
 
 ## 🧑‍💻 Authors
 
-- Shohidul Haque  
-- Md Shoaib Ullash  
+- Shohidul Haque
+- Md Shoaib Ullash
+- Kalikota, Navya
+- Dadireddy, Siddhartha
+- Imtiouz, Md Rashed
+- Subramanian Palaniappan, Kannammal
 
