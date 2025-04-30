@@ -10,7 +10,7 @@ Sepsis is a critical condition that requires early intervention. In this project
 
 Our end-to-end ML workflow compares **13 classifiers** with **SMOTE** and **undersampling** strategies to find the most balanced model. Results showed that **XGBoost (undersampled)** performed best, with **Recall₁ = 0.84**.
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -30,24 +30,7 @@ Our end-to-end ML workflow compares **13 classifiers** with **SMOTE** and **unde
 | Tuned Random Forest     | 0.83 | 0.88 | 0.83 |
 | Bagging Classifier      | 0.87 | 0.82 | 0.87 |
 
----
 
-## 📁 Project Structure
-
-```
-sepsis-prediction-ICU/
-├── ml_report_final.pdf                # Project summary report
-├── notebooks/
-│   └── sepsis_prediction_solution.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── modeling.py
-│   └── utils.py
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 📌 Key Contributions
 
@@ -71,7 +54,4 @@ sepsis-prediction-ICU/
 
 - Shohidul Haque  
 - Md Shoaib Ullash  
-- Navya Kalikota  
-- Siddhartha Dadireddy  
-- Md Rashed Imtiouz  
-- Kannammal Subramanian Palaniappan
+
