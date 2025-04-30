@@ -1,7 +1,7 @@
 # 🧠 Early Prediction of Sepsis in ICU Using Machine Learning
 
 🔗 **Live Report**: [ml_report_final.pdf](./ml_report_final.pdf)  
-📁 **Notebook**: [sepsis_prediction_solution.ipynb](./notebooks/sepsis_prediction_solution.ipynb)  
+📁 **Notebook**: [Project_sepsis_prediction_solution_final_v2.ipynb](./sepsis_prediction_solution.ipynb)  
 📌 Course: ISAN 5367 – Texas State University (Spring 2025)
 
 ## 🚀 Project Overview
